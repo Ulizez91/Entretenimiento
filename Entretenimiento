@@ -1,0 +1,255 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://s0lc.net:8080/imagenes/85.jpg" group-title="PELICULAS",AMC
+http://latinchannel.tv:8080/live/peppers/Santafex01/85.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC  (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/157.jpg" group-title="PELICULAS",AMC  (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA" tvg-logo="http://s0lc.net:8080/imagenes/74.jpg" group-title="PELICULAS",AZTECA CINEMA
+http://latinchannel.tv:8080/live/peppers/Santafex01/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="http://s0lc.net:8080/imagenes/10248.jpg" group-title="PELICULAS",CINE DINAMITA
+http://latinchannel.tv:8080/live/peppers/Santafex01/10248.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO" tvg-logo="http://s0lc.net:8080/imagenes/10249.jpg" group-title="PELICULAS",CINE LATINO
+http://latinchannel.tv:8080/live/peppers/Santafex01/10249.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://s0lc.net:8080/imagenes/75.jpg" group-title="PELICULAS",CINECANAL
+http://latinchannel.tv:8080/live/peppers/Santafex01/75.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/113.jpg" group-title="PELICULAS",CINECANAL (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/113.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://s0lc.net:8080/imagenes/82.jpg" group-title="PELICULAS",CINEMAX
+http://latinchannel.tv:8080/live/peppers/Santafex01/82.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" -name="CINEMAX  (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/865.jpg" group-title="PELICULAS",CINEMAX  (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/865.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://s0lc.net:8080/imagenes/79.jpg" group-title="PELICULAS",DE PELICULA
+http://latinchannel.tv:8080/live/peppers/Santafex01/79.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/18665.jpg" group-title="PELICULAS",DE PELICULA (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/18665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/18666.jpg" group-title="PELICULAS",DE PELICULA PLUS (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/18666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="PELICULAS",DHE
+http://latinchannel.tv:8080/live/peppers/Santafex01/24433.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="EUROPA EUROPA" tvg-logo="http://s0lc.net:8080/imagenes/12779.jpg" group-title="PELICULAS",EUROPA EUROPA
+http://latinchannel.tv:8080/live/peppers/Santafex01/12779.m3u8
+#EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXM (720p)" tvg-logo="http://s0lc.net:8080/imagenes/4209.jpg" group-title="PELICULAS",FXM (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/4209.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="http://s0lc.net:8080/imagenes/77.jpg" group-title="PELICULAS",GOLDEN
+http://latinchannel.tv:8080/live/peppers/Santafex01/77.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/122.jpg" group-title="PELICULAS",GOLDEN (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/122.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://s0lc.net:8080/imagenes/84.jpg" group-title="PELICULAS",GOLDEN EDGE
+http://latinchannel.tv:8080/live/peppers/Santafex01/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/8925.jpg" group-title="PELICULAS",GOLDEN PREMIER (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/8925.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="HBO  (720p)" tvg-logo="http://s0lc.net:8080/imagenes/5415.jpg" group-title="PELICULAS",HBO  (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/5415.m3u8
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 (720p)" tvg-logo="http://s0lc.net:8080/imagenes/378.jpg" group-title="PELICULAS",HBO 2 (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/378.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBO FAMILY (720p)" tvg-logo="http://s0lc.net:8080/imagenes/182.jpg" group-title="PELICULAS",HBO FAMILY (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO LATINO" tvg-logo="http://s0lc.net:8080/imagenes/181.jpg" group-title="PELICULAS",HBO LATINO
+http://latinchannel.tv:8080/live/peppers/Santafex01/181.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi Mexico" tvg-name="HBO MUNDI" tvg-logo="http://s0lc.net:8080/imagenes/15942.jpg" group-title="PELICULAS",HBO MUNDI
+http://latinchannel.tv:8080/live/peppers/Santafex01/15942.m3u8
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="HBO PLUS (720p)" tvg-logo="http://s0lc.net:8080/imagenes/377.jpg" group-title="PELICULAS",HBO PLUS (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/377.m3u8
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="HBO POP (720p)" tvg-logo="http://s0lc.net:8080/imagenes/370.jpg" group-title="PELICULAS",HBO POP (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/370.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO Signature" tvg-logo="http://s0lc.net:8080/imagenes/3681.jpg" group-title="PELICULAS",HBO Signature
+http://latinchannel.tv:8080/live/peppers/Santafex01/3681.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="HBO Signature (720p)" tvg-logo="http://s0lc.net:8080/imagenes/224.jpg" group-title="PELICULAS",HBO Signature (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/224.m3u8
+#EXTINF:-1 tvg-id="HBOXtremePanamerica.pa" tvg-name="HBO XTREME (720p)" tvg-logo="http://s0lc.net:8080/imagenes/371.jpg" group-title="PELICULAS",HBO XTREME (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/371.m3u8
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I SAT" tvg-logo="http://s0lc.net:8080/imagenes/88.jpg" group-title="PELICULAS",I SAT
+http://latinchannel.tv:8080/live/peppers/Santafex01/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MORBIDO" tvg-logo="http://s0lc.net:8080/imagenes/10295.jpg" group-title="PELICULAS",MORBIDO
+http://latinchannel.tv:8080/live/peppers/Santafex01/10295.m3u8
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="MULTIPREMIER" tvg-logo="http://s0lc.net:8080/imagenes/5240.jpg" group-title="PELICULAS",MULTIPREMIER
+http://latinchannel.tv:8080/live/peppers/Santafex01/5240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIE NETWORK (LATINO)" tvg-logo="" group-title="PELICULAS",MY TIME MOVIE NETWORK (LATINO)
+http://latinchannel.tv:8080/live/peppers/Santafex01/24295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ON DIRECTV" tvg-logo="http://s0lc.net:8080/imagenes/18633.jpg" group-title="PELICULAS",ON DIRECTV
+http://latinchannel.tv:8080/live/peppers/Santafex01/18633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANICO " tvg-logo="" group-title="PELICULAS",PANICO 
+http://latinchannel.tv:8080/live/peppers/Santafex01/24687.m3u8
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="PARAMOUNT CHANNEL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/365.jpg" group-title="PELICULAS",PARAMOUNT CHANNEL (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/365.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD" tvg-logo="http://s0lc.net:8080/imagenes/86.jpg" group-title="PELICULAS",SPACE HD
+http://latinchannel.tv:8080/live/peppers/Santafex01/86.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD  (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/156.jpg" group-title="PELICULAS",SPACE HD  (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/156.m3u8
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="STAR ACTION" tvg-logo="http://s0lc.net:8080/imagenes/70.jpg" group-title="PELICULAS",STAR ACTION
+http://latinchannel.tv:8080/live/peppers/Santafex01/70.m3u8
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="STAR ACTION (720p)" tvg-logo="http://s0lc.net:8080/imagenes/116.jpg" group-title="PELICULAS",STAR ACTION (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/116.m3u8
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="STAR CINEMA" tvg-logo="http://s0lc.net:8080/imagenes/72.jpg" group-title="PELICULAS",STAR CINEMA
+http://latinchannel.tv:8080/live/peppers/Santafex01/72.m3u8
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="STAR CLASSICS" tvg-logo="http://s0lc.net:8080/imagenes/73.jpg" group-title="PELICULAS",STAR CLASSICS
+http://latinchannel.tv:8080/live/peppers/Santafex01/73.m3u8
+#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-name="STAR COMEDY (720p)" tvg-logo="http://s0lc.net:8080/imagenes/9560.jpg" group-title="PELICULAS",STAR COMEDY (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/9560.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="STAR FUN (720p)" tvg-logo="http://s0lc.net:8080/imagenes/186.jpg" group-title="PELICULAS",STAR FUN (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/186.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="STAR HITS" tvg-logo="http://s0lc.net:8080/imagenes/71.jpg" group-title="PELICULAS",STAR HITS
+http://latinchannel.tv:8080/live/peppers/Santafex01/71.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="STAR HITS (720p)" tvg-logo="http://s0lc.net:8080/imagenes/115.jpg" group-title="PELICULAS",STAR HITS (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/115.m3u8
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="STAR SERIES" tvg-logo="http://s0lc.net:8080/imagenes/69.jpg" group-title="PELICULAS",STAR SERIES
+http://latinchannel.tv:8080/live/peppers/Santafex01/69.m3u8
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="STAR SERIES (720p)" tvg-logo="http://s0lc.net:8080/imagenes/120.jpg" group-title="PELICULAS",STAR SERIES (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/120.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://s0lc.net:8080/imagenes/87.jpg" group-title="PELICULAS",STUDIO UNIVERSAL
+http://latinchannel.tv:8080/live/peppers/Santafex01/87.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.mx" tvg-name="SUNDANCE CHANNEL" tvg-logo="http://s0lc.net:8080/imagenes/3855.jpg" group-title="PELICULAS",SUNDANCE CHANNEL
+http://latinchannel.tv:8080/live/peppers/Santafex01/3855.m3u8
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://s0lc.net:8080/imagenes/89.jpg" group-title="PELICULAS",TCM
+http://latinchannel.tv:8080/live/peppers/Santafex01/89.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://s0lc.net:8080/imagenes/76.jpg" group-title="PELICULAS",TNT HD
+http://latinchannel.tv:8080/live/peppers/Santafex01/76.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/129.jpg" group-title="PELICULAS",TNT HD (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TU CINE " tvg-logo="http://s0lc.net:8080/imagenes/22969.jpg" group-title="PELICULAS",TU CINE 
+http://latinchannel.tv:8080/live/peppers/Santafex01/22969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TU CINE (1080P)" tvg-logo="http://s0lc.net:8080/imagenes/22968.jpg" group-title="PELICULAS",TU CINE (1080P)
+http://latinchannel.tv:8080/live/peppers/Santafex01/22968.m3u8
+#EXTINF:-1 tvg-id="ZeeMundo.us" tvg-name="ZEE MUNDO " tvg-logo="http://s0lc.net:8080/imagenes/17275.jpg" group-title="PELICULAS",ZEE MUNDO 
+http://latinchannel.tv:8080/live/peppers/Santafex01/17275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3ABN" tvg-logo="http://s0lc.net:8080/imagenes/16418.jpg" group-title="RELIGION",3ABN
+http://latinchannel.tv:8080/live/peppers/Santafex01/16418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALIENTO VISION " tvg-logo="http://s0lc.net:8080/imagenes/16995.jpg" group-title="RELIGION",ALIENTO VISION 
+http://latinchannel.tv:8080/live/peppers/Santafex01/16995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="http://s0lc.net:8080/imagenes/2305.jpg" group-title="RELIGION",Enlace
+http://latinchannel.tv:8080/live/peppers/Santafex01/2305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESNE" tvg-logo="http://s0lc.net:8080/imagenes/13534.jpg" group-title="RELIGION",ESNE
+http://latinchannel.tv:8080/live/peppers/Santafex01/13534.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanol.us" tvg-name="EWTN (ING)" tvg-logo="http://s0lc.net:8080/imagenes/2304.jpg" group-title="RELIGION",EWTN (ING)
+http://latinchannel.tv:8080/live/peppers/Santafex01/2304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN LATINO" tvg-logo="http://s0lc.net:8080/imagenes/5269.jpg" group-title="RELIGION",EWTN LATINO
+http://latinchannel.tv:8080/live/peppers/Santafex01/5269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOSANNA VISION" tvg-logo="http://s0lc.net:8080/imagenes/3630.jpg" group-title="RELIGION",HOSANNA VISION
+http://latinchannel.tv:8080/live/peppers/Santafex01/3630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARIAVISION" tvg-logo="http://s0lc.net:8080/imagenes/5270.jpg" group-title="RELIGION",MARIAVISION
+http://latinchannel.tv:8080/live/peppers/Santafex01/5270.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="http://s0lc.net:8080/imagenes/19.jpg" group-title="SERIES",A&E
+http://latinchannel.tv:8080/live/peppers/Santafex01/19.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/124.jpg" group-title="SERIES",A&E (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/124.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://s0lc.net:8080/imagenes/20.jpg" group-title="SERIES",AXN
+http://latinchannel.tv:8080/live/peppers/Santafex01/20.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/125.jpg" group-title="SERIES",AXN (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/125.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="http://s0lc.net:8080/imagenes/22.jpg" group-title="SERIES",COMEDY CENTRAL
+http://latinchannel.tv:8080/live/peppers/Santafex01/22.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/3538.jpg" group-title="SERIES",COMEDY CENTRAL (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/3538.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="http://s0lc.net:8080/imagenes/38.jpg" group-title="SERIES",DISTRITO COMEDIA
+http://latinchannel.tv:8080/live/peppers/Santafex01/38.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://s0lc.net:8080/imagenes/18.jpg" group-title="SERIES",FX
+http://latinchannel.tv:8080/live/peppers/Santafex01/18.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/132.jpg" group-title="SERIES",FX (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/132.m3u8
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFETIME" tvg-logo="http://s0lc.net:8080/imagenes/63.jpg" group-title="SERIES",LIFETIME
+http://latinchannel.tv:8080/live/peppers/Santafex01/63.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY" tvg-logo="http://s0lc.net:8080/imagenes/15.jpg" group-title="SERIES",SONY
+http://latinchannel.tv:8080/live/peppers/Santafex01/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY (720P)" tvg-logo="http://s0lc.net:8080/imagenes/18857.jpg" group-title="SERIES",SONY (720P)
+http://latinchannel.tv:8080/live/peppers/Santafex01/18857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="http://s0lc.net:8080/imagenes/18857.jpg" group-title="SERIES",SONY COMEDIAS
+http://latinchannel.tv:8080/live/peppers/Santafex01/21212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMPETENCIAS" tvg-logo="http://s0lc.net:8080/imagenes/18857.jpg" group-title="SERIES",SONY COMPETENCIAS
+http://latinchannel.tv:8080/live/peppers/Santafex01/21213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="http://s0lc.net:8080/imagenes/18857.jpg" group-title="SERIES",SONY NOVELAS
+http://latinchannel.tv:8080/live/peppers/Santafex01/21211.m3u8
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="STAR CHANNEL" tvg-logo="http://s0lc.net:8080/imagenes/14.jpg" group-title="SERIES",STAR CHANNEL
+http://latinchannel.tv:8080/live/peppers/Santafex01/14.m3u8
+#EXTINF:-1 tvg-id="Fox.co" tvg-name="STAR CHANNEL (720p)" tvg-logo="http://s0lc.net:8080/imagenes/123.jpg" group-title="SERIES",STAR CHANNEL (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/123.m3u8
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="STAR LIFE" tvg-logo="http://s0lc.net:8080/imagenes/37.jpg" group-title="SERIES",STAR LIFE
+http://latinchannel.tv:8080/live/peppers/Santafex01/37.m3u8
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SYFY" tvg-logo="http://s0lc.net:8080/imagenes/31.jpg" group-title="SERIES",SYFY
+http://latinchannel.tv:8080/live/peppers/Santafex01/31.m3u8
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SYFY  (720p)" tvg-logo="http://s0lc.net:8080/imagenes/872.jpg" group-title="SERIES",SYFY  (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/872.m3u8
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="http://s0lc.net:8080/imagenes/39.jpg" group-title="SERIES",TBS
+http://latinchannel.tv:8080/live/peppers/Santafex01/39.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="http://s0lc.net:8080/imagenes/33.jpg" group-title="SERIES",TNT SERIES
+http://latinchannel.tv:8080/live/peppers/Santafex01/33.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/128.jpg" group-title="SERIES",TNT SERIES (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/128.m3u8
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://s0lc.net:8080/imagenes/17.jpg" group-title="SERIES",UNIVERSAL CHANNEL
+http://latinchannel.tv:8080/live/peppers/Santafex01/17.m3u8
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL CHANNEL (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/131.jpg" group-title="SERIES",UNIVERSAL CHANNEL (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/131.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER CHANNEL" tvg-logo="http://s0lc.net:8080/imagenes/16.jpg" group-title="SERIES",WARNER CHANNEL
+http://latinchannel.tv:8080/live/peppers/Santafex01/16.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER CHANNEL (720p)" tvg-logo="http://s0lc.net:8080/imagenes/130.jpg" group-title="SERIES",WARNER CHANNEL (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/130.m3u8
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E! ENTERTAINMENT" tvg-logo="http://s0lc.net:8080/imagenes/29.jpg" group-title="VARIEDAD",E! ENTERTAINMENT
+http://latinchannel.tv:8080/live/peppers/Santafex01/29.m3u8
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E! ENTERTAINMENT HD (720p)" tvg-logo="http://s0lc.net:8080/imagenes/3856.jpg" group-title="VARIEDAD",E! ENTERTAINMENT HD (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/3856.m3u8
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="http://s0lc.net:8080/imagenes/34.jpg" group-title="VARIEDAD",EL GOURMET
+http://latinchannel.tv:8080/live/peppers/Santafex01/34.m3u8
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="El GOURMET (1080p)" tvg-logo="http://s0lc.net:8080/imagenes/5369.jpg" group-title="VARIEDAD",El GOURMET (1080p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/5369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="http://s0lc.net:8080/imagenes/5038.jpg" group-title="VARIEDAD",ESTRELLA TV
+http://latinchannel.tv:8080/live/peppers/Santafex01/5038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAIL ARMY" tvg-logo="" group-title="VARIEDAD",FAIL ARMY
+http://latinchannel.tv:8080/live/peppers/Santafex01/21193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM and ARTS" tvg-logo="http://s0lc.net:8080/imagenes/9559.jpg" group-title="VARIEDAD",FILM and ARTS
+http://latinchannel.tv:8080/live/peppers/Santafex01/9559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK LATINO" tvg-logo="http://s0lc.net:8080/imagenes/9718.jpg" group-title="VARIEDAD",FOOD NETWORK LATINO
+http://latinchannel.tv:8080/live/peppers/Santafex01/9718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="http://s0lc.net:8080/imagenes/35.jpg" group-title="VARIEDAD",GARAGE TV
+http://latinchannel.tv:8080/live/peppers/Santafex01/35.m3u8
+#EXTINF:-1 tvg-id="GlitzConoSur.co" tvg-name="GLITZ" tvg-logo="http://s0lc.net:8080/imagenes/36.jpg" group-title="VARIEDAD",GLITZ
+http://latinchannel.tv:8080/live/peppers/Santafex01/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="http://s0lc.net:8080/imagenes/24.jpg" group-title="VARIEDAD",HOLA TV
+http://latinchannel.tv:8080/live/peppers/Santafex01/24.m3u8
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MAS CHIC" tvg-logo="http://s0lc.net:8080/imagenes/26.jpg" group-title="VARIEDAD",MAS CHIC
+http://latinchannel.tv:8080/live/peppers/Santafex01/26.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="NBC UNIVERSO HD" tvg-logo="http://s0lc.net:8080/imagenes/1456.jpg" group-title="VARIEDAD",NBC UNIVERSO HD
+http://latinchannel.tv:8080/live/peppers/Santafex01/1456.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="PASIONES" tvg-logo="http://s0lc.net:8080/imagenes/4684.jpg" group-title="VARIEDAD",PASIONES
+http://latinchannel.tv:8080/live/peppers/Santafex01/4684.m3u8
+#EXTINF:-1 tvg-id="Telemundo51WSCV.us" tvg-name="TELEMUNDO" tvg-logo="http://s0lc.net:8080/imagenes/111.jpg" group-title="VARIEDAD",TELEMUNDO
+http://latinchannel.tv:8080/live/peppers/Santafex01/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 44 WASHINGTON" tvg-logo="http://s0lc.net:8080/imagenes/22278.jpg" group-title="VARIEDAD",TELEMUNDO 44 WASHINGTON
+http://latinchannel.tv:8080/live/peppers/Santafex01/22278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 48 AREA DE LA BAHIA" tvg-logo="http://s0lc.net:8080/imagenes/15865.jpg" group-title="VARIEDAD",TELEMUNDO 48 AREA DE LA BAHIA
+http://latinchannel.tv:8080/live/peppers/Santafex01/15865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO CHICAGO" tvg-logo="" group-title="VARIEDAD",TELEMUNDO CHICAGO
+http://latinchannel.tv:8080/live/peppers/Santafex01/15867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO DALLAS" tvg-logo="" group-title="VARIEDAD",TELEMUNDO DALLAS
+http://latinchannel.tv:8080/live/peppers/Santafex01/15868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO DENVER" tvg-logo="" group-title="VARIEDAD",TELEMUNDO DENVER
+http://latinchannel.tv:8080/live/peppers/Santafex01/15869.m3u8
+#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://s0lc.net:8080/imagenes/358.jpg" group-title="VARIEDAD",TELEMUNDO INTERNACIONAL
+http://latinchannel.tv:8080/live/peppers/Santafex01/358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52 LOS ANGELES" tvg-logo="http://s0lc.net:8080/imagenes/1167.jpg" group-title="VARIEDAD",TELEMUNDO 52 LOS ANGELES
+http://latinchannel.tv:8080/live/peppers/Santafex01/1167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 MIAMI" tvg-logo="http://s0lc.net:8080/imagenes/15870.jpg" group-title="VARIEDAD",TELEMUNDO 51 MIAMI
+http://latinchannel.tv:8080/live/peppers/Santafex01/15870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 47 NEW YORK" tvg-logo="http://s0lc.net:8080/imagenes/13542.jpg" group-title="VARIEDAD",TELEMUNDO 47 NEW YORK
+http://latinchannel.tv:8080/live/peppers/Santafex01/13542.m3u8
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="TL NOVELAS" tvg-logo="http://s0lc.net:8080/imagenes/356.jpg" group-title="VARIEDAD",TL NOVELAS
+http://latinchannel.tv:8080/live/peppers/Santafex01/356.m3u8
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TRUTV" tvg-logo="http://s0lc.net:8080/imagenes/21.jpg" group-title="VARIEDAD",TRUTV
+http://latinchannel.tv:8080/live/peppers/Santafex01/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV (720p)" tvg-logo="http://s0lc.net:8080/imagenes/133.jpg" group-title="VARIEDAD",TRUTV (720p)
+http://latinchannel.tv:8080/live/peppers/Santafex01/133.m3u8
+#EXTINF:-1 tvg-id="TVC.mx" tvg-name="TVC" tvg-logo="http://s0lc.net:8080/imagenes/3506.jpg" group-title="VARIEDAD",TVC
+http://latinchannel.tv:8080/live/peppers/Santafex01/3506.m3u8
+#EXTINF:-1 tvg-id="TVEIntAmerica.es" tvg-name="TVE" tvg-logo="http://s0lc.net:8080/imagenes/100.jpg" group-title="VARIEDAD",TVE
+http://latinchannel.tv:8080/live/peppers/Santafex01/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HOUSTON" tvg-logo="http://s0lc.net:8080/imagenes/15700.jpg" group-title="VARIEDAD",UNIVISION HOUSTON
+http://latinchannel.tv:8080/live/peppers/Santafex01/15700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION LATINOAMERICA " tvg-logo="" group-title="VARIEDAD",UNIVISION LATINOAMERICA 
+http://latinchannel.tv:8080/live/peppers/Santafex01/24248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="http://s0lc.net:8080/imagenes/1455.jpg" group-title="VARIEDAD",UNIVISION MIAMI
+http://latinchannel.tv:8080/live/peppers/Santafex01/1455.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://s0lc.net:8080/imagenes/23.jpg" group-title="VARIEDAD",UNICABLE
+http://latinchannel.tv:8080/live/peppers/Santafex01/23.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UNIMAS" tvg-logo="http://s0lc.net:8080/imagenes/482.jpg" group-title="VARIEDAD",UNIMAS
+http://latinchannel.tv:8080/live/peppers/Santafex01/482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-logo="http://s0lc.net:8080/imagenes/68.jpg" group-title="VARIEDAD",WOBI
+http://latinchannel.tv:8080/live/peppers/Santafex01/68.m3u8
